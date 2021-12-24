@@ -8,9 +8,11 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **React.JS, Tailwind.css**
+- My most recent project **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app/)**
 
-- 📫 How to reach me **ty.jvile@gmail.com**
+- I’m currently learning **React.JS, Tailwind.css**
+
+- How to reach me **ty.jvile@gmail.com**
 
 <br>
 <br>
