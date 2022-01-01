@@ -10,12 +10,10 @@
 
 - My most recent projects
 
-- TYMDB
-- A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality.
+- TYMDB - A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality.
 - **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
--
-- gitBing
-- A gitHub searcher which allows you to search for users and view basic profile information
+
+- gitBing - A gitHub searcher which allows you to search for users and view basic profile information
 - **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
 
 - I’m currently working on - Final Touches to TYMDB && GOOGLE UI/UX COURSERA.
