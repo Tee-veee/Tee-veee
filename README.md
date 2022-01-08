@@ -1,22 +1,25 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">My name is Ty Vile, I am a aspiring web-dev and a current problem-solver, my current goals are focused around learning UI/UX design and sharpening my front end development fundamentals</h3>
+<h3 align="center">My name is Ty Vile, I am a aspiring web-dev and a current problem-solver, my current goals are focused around learning UX design and sharpening my development fundamentals</h3>
 
 <br>
 <br>
 
 ## About Me
 
+- I’m currently working on - Google UX Foundations + Figma Projects
+
 - My most recent projects
+
+- houseMarketPlaceApp
+- **[houseMarketPlace](https://stupefied-cray-4439e2.netlify.app/)**
 
 - TYMDB - A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality.
 - **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
 
 - gitBing - A gitHub searcher which allows you to search for users and view basic profile information
 - **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
-
-- I’m currently working on - Final Touches to TYMDB && GOOGLE UI/UX COURSERA.
 
 - How to reach me **ty.jvile@gmail.com**
 
