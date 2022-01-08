@@ -12,14 +12,14 @@
 
 - My most recent projects
 
-- houseMarketPlaceApp
-- **[houseMarketPlace](https://stupefied-cray-4439e2.netlify.app/)**
-
 - TYMDB - A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality.
 - **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
 
 - gitBing - A gitHub searcher which allows you to search for users and view basic profile information
 - **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
+
+- houseMarketPlaceApp - fireBase App where users can add listings, edit listings, Oauth
+- **[houseMarketPlace](https://stupefied-cray-4439e2.netlify.app/)**
 
 - How to reach me **ty.jvile@gmail.com**
 
