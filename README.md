@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">My name is Ty Vile, I am a aspiring web-dev and a current problem-solver, my current goals are focused around learning UX design and sharpening my development fundamentals</h3>
+<h3 align="center">My name is Ty Vile, I am a aspiring front end javascript developer with a passion for both the development and ui/ux design process. I hope my projects showcase my abilities and passions!</h3>
 
 <br>
 <br>
