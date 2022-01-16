@@ -8,23 +8,18 @@
 
 ## About Me
 
-- I’m currently working on - Google UX Foundations + Figma Projects
+- I’m currently focussing learning - Google - Coursera - UX UI foundations, Figma && NEXT.JS
 
-- My most recent projects
+- Some of my recent projects include
 
-- TYMDB - A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality.
-- **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
+- TYMDB - A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality. - **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
 
-- gitBing - A gitHub searcher which allows you to search for users and view basic profile information
-- **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
+- gitBing - A gitHub searcher which allows you to search for users and view basic profile information - **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
 
-- houseMarketPlaceApp - fireBase App where users can add listings, edit listings, Oauth
-- **[houseMarketPlace](https://stupefied-cray-4439e2.netlify.app/)**
+- houseMarketPlaceApp - fireBase App where users can add listings, edit listings, Oauth - **[houseMarketPlace](https://stupefied-cray-4439e2.netlify.app/)**
 
-- How to reach me **ty.jvile@gmail.com**
-
-<br>
-<br>
+  <br>
+  <br>
 
 ## Languages and Tools:
 
@@ -36,7 +31,8 @@
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://next.js.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://figma.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg alt="postman" width="45" height="45"/> </a> 
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
