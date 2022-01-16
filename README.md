@@ -8,7 +8,7 @@
 
 ## About Me
 
-- I’m currently focussing learning - Google - Coursera - UX UI foundations, Figma && NEXT.JS
+- I’m currently learning - Google's coursera - UX UI foundations &
 
 - Some of my recent projects include
 
@@ -31,7 +31,7 @@
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://next.js.org" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://next.js.org" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" alt="postman" width="45" height="45"/> </a> 
     <a href="https://figma.com" target="_blank"> <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="postman" width="45" height="45"/> </a> 
 </p>
 
