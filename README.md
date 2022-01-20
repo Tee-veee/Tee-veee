@@ -18,7 +18,7 @@
 
 - TYMDB - A Netflix/IMDB mashup. - **[Movie_Project](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
 
-- gitBing - A gitHub profile searcher - **[GitHub_Project](https://affectionate-kilby-9b6a1e.netlify.app)**
+- GITBING - A gitHub profile searcher - **[GitHub_Project](https://affectionate-kilby-9b6a1e.netlify.app)**
 
   <br>
   <br>
