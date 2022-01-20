@@ -8,15 +8,16 @@
 
 ## About Me
 
-- I’m currently learning - Google's coursera - UX UI foundations & Next.JS
+- I’m currently learning - Google's coursera course - UX UI foundations + recoil state managment
 
 - Some of my recent projects include
 
-- TYMDB - A Netflix/IMDB mashup website with a modern netflix feel and IMDB functionality. - **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
+- DISCORD UI RECREATION - **[TYMDB](https://laughing-murdock-169cd6.netlify.app/)**
+- GOOGLE SEARCH CLONE - A Functional UI/Search Engine - **[TYMDB](https://eloquent-lovelace-01a0a0.netlify.app/)**
 
-- gitBing - A gitHub searcher which allows you to search for users and view basic profile information - **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
+- TYMDB - A Netflix/IMDB mashup. - **[TYMDB](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
 
-- houseMarketPlaceApp - fireBase App where users can add listings, edit listings, Oauth - **[houseMarketPlace](https://stupefied-cray-4439e2.netlify.app/)**
+- gitBing - A gitHub profile searcher - **[gitBing](https://affectionate-kilby-9b6a1e.netlify.app)**
 
   <br>
   <br>
@@ -31,7 +32,7 @@
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://next.js.org" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" alt="postman" width="45" height="45" style={color: white}/> </a> 
+    <a href="https://next.js.org" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" alt="postman" width="45" height="45" style={{backgroundColor: white}}/> </a> 
     <a href="https://figma.com" target="_blank"> <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="postman" width="45" height="45"/> </a> 
 </p>
 
