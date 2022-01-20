@@ -13,7 +13,7 @@
 - Some of my recent projects include
 
 - DISCORD UI RECREATION - A UI only recreation of the discord website and dashboard.**[Discord_UI](https://laughing-murdock-169cd6.netlify.app/)**
--
+
 - GOOGLE SEARCH CLONE - A Functional UI/Search Engine - **[google_Project](https://eloquent-lovelace-01a0a0.netlify.app/)**
 
 - TYMDB - A Netflix/IMDB mashup. - **[Movie_Project](https://61d048a14b98f00008c56043--wonderful-brown-3906af.netlify.app/)**
