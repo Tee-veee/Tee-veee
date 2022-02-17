@@ -1,17 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Hi, my name is Ty and I am currently looking for work in the ui/ux/front end development field.</h3>
+<h3 align="center">Hi, my name is Ty and I am a ui/ux designer and javascript developer from Adelaide. I am currently looking for employment opportunities and I hope you enjoy my projects! You can find my portfolio <a href='https://www.ty-jake.com' target="_blank" rel="norefferer">here!</a></h3>
 
 <br>
 <br>
-
-## About Me
-
-- View my portfolio <a href='www.ty-jake.com'>here!</a>
-
-  <br>
-  <br>
 
 ## Languages and Tools:
 
