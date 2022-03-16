@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>Hi, my name is Ty and I am a web developer from Adelaide, SA. I am currently seeking employment and hope you enjoy the projects in my repos!</h3>
-<a href='https://www.ty-jake.com' target="_blank" rel="norefferer">View my Portfolio!</a>
-<a href='https://relaxed-thompson-5d8d0a.netlify.app/' target="_blank" rel="norefferer">View my latest project!</a>
+<h3><a href='https://www.ty-jake.com' target="_blank" rel="norefferer">View my Portfolio!</a><h3>
+<h3><a href='https://relaxed-thompson-5d8d0a.netlify.app/' target="_blank" rel="norefferer">View my latest project!</a><h3>
 
 <br>
 <br>
